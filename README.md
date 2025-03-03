@@ -61,13 +61,13 @@ python app.py
 ## Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/main-interface.png)
+![Main Interface](main-interface.png)
 
 ### Example Recognition
-![Recognition Example](screenshots/recognition-example.png)
+![Recognition Example](recognition-example.png)
 
 ### Result 
-![Result](screenshots/result.png)
+![Result](result.png)
 
 
 ## Contributors
