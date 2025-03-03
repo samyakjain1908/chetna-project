@@ -21,7 +21,7 @@ To run the Number Recognition Tool, follow these steps:
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/number-recognition-tool.git
+git clone https://github.com/chetna-bhurani/number-recognition-tool.git
 cd number-recognition-tool
 
 # Install dependencies
