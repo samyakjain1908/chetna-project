@@ -32,8 +32,8 @@ python app.py
 ```
 
 ## Usage
-- Open the application.
-- Upload or draw a handwritten digit on the canvas.
+- Run the application.
+- Upload the image file path.
 - Click the "Recognize" button to get the predicted number.
 
 ## System Requirements
